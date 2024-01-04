@@ -1,0 +1,19 @@
+.mainBox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 240px;
+  height: 140px;
+
+  border-radius: 10px;
+  background-color: #d1e7dd;
+}
+.container {
+  width: 235px;
+  height: 72px;
+
+  margin-top: 20px;
+  border-radius: 10px;
+
+  background-color: white;
+}

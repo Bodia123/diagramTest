@@ -1,0 +1,12 @@
+.select {
+  width: 233px;
+  height: 40px;
+  border: 1px solid #479f76;
+  border-radius: 10px;
+  text-align: center;
+}
+.option::target-text {
+  display: block;
+  position: relative;
+  width: 100%;
+}
